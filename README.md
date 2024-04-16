@@ -69,12 +69,12 @@ além dos conteúdos aprendidos nas aulas (fichas e hands-ons).
 
 ----------------------------------------------------------------------------------------------------
 5. Prazos, datas, regras e instruções
-  1. Data limite de entrega do projeto: 22 de junho de 2024, 23:59.
-  2. O projeto é realizado em grupos de 2 estudantes. Não são aceites projetos realizados por
+  5.1. Data limite de entrega do projeto: 22 de junho de 2024, 23:59.
+  5.2. O projeto é realizado em grupos de 2 estudantes. Não são aceites projetos realizados por
      grupos com mais de 2 elementos. Os estudantes que pretendam realizar o projeto
      individualmente devem solicitá-lo, por escrito, ao docente responsável pela UC. Apenas em
      casos bem fundamentados serão autorizados projetos realizados individualmente.
-  3. O projeto deve ser entregue em arquivo zip seguindo o formato dl_project_#1_#2.zip, onde
+  5.3. O projeto deve ser entregue em arquivo zip seguindo o formato dl_project_#1_#2.zip, onde
      #1 e #2 devem ser substituídos pelos números dos alunos dos elementos do grupo. O arquivo
      zip deve conter:
      •    os notebooks (ficheiros .ipynb) completos após a execução;
@@ -84,7 +84,7 @@ além dos conteúdos aprendidos nas aulas (fichas e hands-ons).
      •    as features calculadas (para modelos desenvolvidos usando transfer learning sem data
           augmentation).
   
-  4. Poderá ser realizada uma prova oral em casos em que os docentes considerem necessário. A
+  5.4. Poderá ser realizada uma prova oral em casos em que os docentes considerem necessário. A
      nota da prova oral (de 0 a 100%) multiplica pela nota do projeto. A lista de estudantes a
      realizar prova oral será publicada no Moodle depois de realizada a entrega.
 
