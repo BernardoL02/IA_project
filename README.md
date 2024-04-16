@@ -13,7 +13,7 @@
 
 
 1. Objetivos
-  Neste trabalho os alunos deverão:
+Neste trabalho os alunos deverão:
      ▪   Utilizar um conjunto de dados de imagens pensado para uma tarefa de classificação;
      ▪   Treinar modelos baseados em redes neuronais convolucionais;
      ▪   Escrever um relatório usando anotações markdown nos notebooks desenvolvidos. O
