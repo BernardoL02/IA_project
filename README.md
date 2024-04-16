@@ -1,16 +1,13 @@
 # IA_project
-                                         DEPARTAMENTO DE ENGENHARIA INFORMÁTICA
-                                           L I C E NC I AT U R A E M E NG E N H A R I A I N FO R M ÁT I C A
 
 
-
-                                    Inteligência Artificial
-                                     2023/2024 – 2º Semestre
+                  Inteligência Artificial
+                  2023/2024 – 2º Semestre
 
 
 
 
-                      PROJETO – CLASSIFICAÇÃO DE IMAGENS
+              PROJETO – CLASSIFICAÇÃO DE IMAGENS
 
 
 
