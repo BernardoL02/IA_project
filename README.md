@@ -14,10 +14,10 @@
 
 1. Objetivos
 Neste trabalho os alunos deverão:
-     ▪   Utilizar um conjunto de dados de imagens pensado para uma tarefa de classificação;
-     ▪   Treinar modelos baseados em redes neuronais convolucionais;
-     ▪   Escrever um relatório usando anotações markdown nos notebooks desenvolvidos. O
-         relatório deve conter:
+     ▪ Utilizar um conjunto de dados de imagens pensado para uma tarefa de classificação;
+     ▪ Treinar modelos baseados em redes neuronais convolucionais;
+     ▪ Escrever um relatório usando anotações markdown nos notebooks desenvolvidos.
+   O relatório deve conter:
              o Todas as etapas realizadas para construção dos modelos;
              o A descrição de todas as experiências e resultados obtidos. A análise dos
                   resultados deve incluir a análise de métricas (por exemplo, matrizes de confusão,
