@@ -1,0 +1,6 @@
+Cada grupo deve usar 4
+das diretorias train# como conjunto de treino e a diretoria train# restante como conjunto de
+validação.
+
+Conjunto de validação: train5
+Conjunto de treino composto pelas imagens das diretorias train1, train2, train3 e train4
