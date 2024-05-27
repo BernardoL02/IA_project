@@ -1,0 +1,1 @@
+Rede from scratch apenas com dropout + optimizer=adam
