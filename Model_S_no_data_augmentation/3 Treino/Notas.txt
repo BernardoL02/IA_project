@@ -1,1 +1,0 @@
-Rede com dropout + regularização L2 + optimizer=adam

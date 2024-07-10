@@ -1,3 +1,0 @@
-Decidimos fazer uso do dropout, pois a nossa rede no primeiro treino com 50 épocas e sem dropout, começou a dar overfitting pois a accuracy a partir da 35 época dava logo 1.00
-
--Podemos fazer uso de hiperparâmetro de modo a ter uma acertividade maior, bem como uma condição de paragem
